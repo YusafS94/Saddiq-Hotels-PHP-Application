@@ -9,7 +9,7 @@ User: k.l.hutton@assign3.ac.uk -
 Password: password
 User: s.laxman@assign3.ac.uk - 
 Password: password2
----
+
 #### Admin login (authorisation for editing hotel listings):
 User: y.miandad@assign3.ac.uk
 Password: letmein
