@@ -7,6 +7,7 @@ https://selene.hud.ac.uk/u1462460/Yusaf_Saddiq-Assignment/Controllers/index.php
 #### Regular user logins:
 User: k.l.hutton@assign3.ac.uk
 Password: password
+
 User: s.laxman@assign3.ac.uk
 Password: password2
 #### Admin login (authorisation for editing hotel listings):
